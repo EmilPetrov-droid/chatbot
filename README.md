@@ -6,10 +6,3 @@ Make your own "username_password.json" file to hold your username and password.
 Provide your own "registered_user_error_codes.json" file suitable for situation
 Provide your own "error_codes.json" file to give restricted answers.
 Enjoy!
-
-/appliance_chatbot/
-│── main.py  # Main script
-│── user_classes.py  # Contains all user-related classes
-│── error_codes.json  # Public error codes
-│── registered_user_error_codes.json  # Registered user error codes
-│── username_passwords.json  # User authentication data
