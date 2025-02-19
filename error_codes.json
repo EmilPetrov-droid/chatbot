@@ -1,0 +1,10 @@
+{
+    "Bosch": {
+        "E01": "Check if the water tap is open.",
+        "E02": "Clean the drain filter."
+    },
+    "Samsung": {
+        "E01": "Water pressure is too low. Ensure proper water supply.",
+        "E02": "Check and clean the inlet hose filter."
+    }
+}
